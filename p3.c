@@ -33,5 +33,5 @@ int main(){
     }
 }
 
-// mpicc -0 p3 p3.c
+// mpicc -o p3 p3.c
 // mpirun -np 1 ./p3
